@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Fri, 12 Jun 2026 09:24:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 10:01:09 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Constructing Grounded Theory</title>
+      <description>Podcast zum Dokument „Constructing Grounded Theory“ (45 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/constructing-grounded-the-260612120102.mp3" length="9528336" type="audio/mpeg"/>
+      <guid isPermaLink="false">9290dbb0-694d-49c7-8464-2feec8f978f2</guid>
+      <pubDate>Fri, 12 Jun 2026 10:01:09 +0000</pubDate>
+      <itunes:duration>26:28</itunes:duration>
+    </item>
     <item>
       <title>Das unbemerkte Wissen und Können der Laien. Bildpraxis und Bilderfahrung von Laienkünstlerinnen und -künstlern. Eine qualitativ-rekonstruktive Studie</title>
       <description>Podcast zum Dokument „Das unbemerkte Wissen und Können der Laien. Bildpraxis und Bilderfahrung von Laienkünstlerinnen und -künstlern. Eine qualitativ-rekonstruktive Studie“ (25 Min., automatisch erstellt).</description>
