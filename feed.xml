@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Fri, 12 Jun 2026 04:21:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 04:53:03 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Lectoraat_opmaakA4_v2.indd</title>
+      <description>Podcast zum Dokument „Lectoraat_opmaakA4_v2.indd“ (25 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/lectoraat_opmaaka4_v2indd-2606120652.mp3" length="9231840" type="audio/mpeg"/>
+      <guid isPermaLink="false">191aaa3d-797f-4c4f-95eb-0b3466a134d4</guid>
+      <pubDate>Fri, 12 Jun 2026 04:53:03 +0000</pubDate>
+      <itunes:duration>25:39</itunes:duration>
+    </item>
     <item>
       <title>IMAGO 20 Forschen im Kunstunterricht</title>
       <description>Podcast zum Dokument „IMAGO 20 Forschen im Kunstunterricht“ (25 Min., automatisch erstellt).</description>
