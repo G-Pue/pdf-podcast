@@ -5,9 +5,16 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Fri, 12 Jun 2026 04:14:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 04:21:36 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-
+    <item>
+      <title>IMAGO 20 Forschen im Kunstunterricht</title>
+      <description>Podcast zum Dokument „IMAGO 20 Forschen im Kunstunterricht“ (25 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/imago-20-forschen-im-kuns-2606120621.mp3" length="8103312" type="audio/mpeg"/>
+      <guid isPermaLink="false">dd49971c-77b4-4265-b083-374c9e30daf4</guid>
+      <pubDate>Fri, 12 Jun 2026 04:21:36 +0000</pubDate>
+      <itunes:duration>22:31</itunes:duration>
+    </item>
   </channel>
 </rss>
