@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Fri, 12 Jun 2026 04:53:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 07:59:10 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Kunstgeschichte lehren und lernen &amp;#8211; Vorbemerkungen zu einer kulturgeschichtlichen Didaktik des Kunstunterrichts</title>
+      <description>1:1-Lesung in Deutsch.</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/kunstgeschichte-lehren-un-260612095859.mp3" length="18222336" type="audio/mpeg"/>
+      <guid isPermaLink="false">3a24d8c8-9562-41e5-9899-ecb999a6a52d</guid>
+      <pubDate>Fri, 12 Jun 2026 07:59:10 +0000</pubDate>
+      <itunes:duration>50:37</itunes:duration>
+    </item>
     <item>
       <title>Lectoraat_opmaakA4_v2.indd</title>
       <description>Podcast zum Dokument „Lectoraat_opmaakA4_v2.indd“ (25 Min., automatisch erstellt).</description>
