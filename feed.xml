@@ -5,16 +5,16 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Fri, 12 Jun 2026 08:10:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 08:10:38 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>BDK-Mitteilungen 2/2026</title>
-      <description>Podcast zum Dokument „BDK-Mitteilungen 2/2026“ (25 Min., automatisch erstellt).</description>
-      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/bdk-mitteilungen-22026-260612101015.mp3" length="9145728" type="audio/mpeg"/>
-      <guid isPermaLink="false">8b3b12f3-0197-42e6-92fd-bad260409ad1</guid>
-      <pubDate>Fri, 12 Jun 2026 08:10:22 +0000</pubDate>
-      <itunes:duration>25:24</itunes:duration>
+      <title>20260130_BDKM_01-2026_SCREEN</title>
+      <description>Podcast zum Dokument „20260130_BDKM_01-2026_SCREEN“ (25 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/20260130_bdkm_01-2026_scr-260612101033.mp3" length="7466976" type="audio/mpeg"/>
+      <guid isPermaLink="false">749499f0-96ea-4f8f-8b84-6bff0908caf7</guid>
+      <pubDate>Fri, 12 Jun 2026 08:10:38 +0000</pubDate>
+      <itunes:duration>20:44</itunes:duration>
     </item>
     <item>
       <title>Kunstgeschichte lehren und lernen &amp;#8211; Vorbemerkungen zu einer kulturgeschichtlichen Didaktik des Kunstunterrichts</title>
