@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Fri, 12 Jun 2026 08:33:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 09:24:22 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Das unbemerkte Wissen und Können der Laien. Bildpraxis und Bilderfahrung von Laienkünstlerinnen und -künstlern. Eine qualitativ-rekonstruktive Studie</title>
+      <description>Podcast zum Dokument „Das unbemerkte Wissen und Können der Laien. Bildpraxis und Bilderfahrung von Laienkünstlerinnen und -künstlern. Eine qualitativ-rekonstruktive Studie“ (25 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/das-unbemerkte-wissen-und-260612112416.mp3" length="8994672" type="audio/mpeg"/>
+      <guid isPermaLink="false">e5334901-b422-4933-afb5-239c1276a479</guid>
+      <pubDate>Fri, 12 Jun 2026 09:24:22 +0000</pubDate>
+      <itunes:duration>24:59</itunes:duration>
+    </item>
     <item>
       <title>BDK-Mitteilungen 2/2026</title>
       <description>Podcast zum Dokument „BDK-Mitteilungen 2/2026“ (25 Min., automatisch erstellt).</description>
