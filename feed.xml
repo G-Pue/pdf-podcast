@@ -5,16 +5,16 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Sun, 14 Jun 2026 13:48:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 13:48:29 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title>BDK-Mitteilungen 4-2025</title>
-      <description>Podcast zum Dokument „BDK-Mitteilungen 4-2025“ (25 Min., automatisch erstellt).</description>
-      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/bdk-mitteilungen-4-2025-260614154820.mp3" length="9134352" type="audio/mpeg"/>
-      <guid isPermaLink="false">98a110c3-300b-48dc-b3de-2946d6d72dd7</guid>
-      <pubDate>Sun, 14 Jun 2026 13:48:25 +0000</pubDate>
-      <itunes:duration>25:22</itunes:duration>
+      <title>BDK Mitteilungen 2025 03</title>
+      <description>Podcast zum Dokument „BDK Mitteilungen 2025 03“ (25 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/bdk-mitteilungen-2025-03-260614154824.mp3" length="8727696" type="audio/mpeg"/>
+      <guid isPermaLink="false">b5373661-4c48-4678-91ee-f9fcc7d1f56f</guid>
+      <pubDate>Sun, 14 Jun 2026 13:48:29 +0000</pubDate>
+      <itunes:duration>24:15</itunes:duration>
     </item>
     <item>
       <title>Constructing Grounded Theory</title>
