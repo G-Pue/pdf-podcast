@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Tue, 16 Jun 2026 13:49:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 16:39:03 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>IMAGO 19 Diversität</title>
+      <description>Podcast zum Dokument „IMAGO 19 Diversität“ (30 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/imago-19-diversitat-260618183857.mp3" length="9033264" type="audio/mpeg"/>
+      <guid isPermaLink="false">cd1538eb-4f0f-4d95-9cb5-fc53344951c5</guid>
+      <pubDate>Thu, 18 Jun 2026 16:39:03 +0000</pubDate>
+      <itunes:duration>25:06</itunes:duration>
+    </item>
     <item>
       <title>Kröz Lara KuWiHa 4747241</title>
       <description>Podcast zum Dokument „Kröz Lara KuWiHa 4747241“ (14 Min., automatisch erstellt).</description>
