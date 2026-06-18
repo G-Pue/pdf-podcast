@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Thu, 18 Jun 2026 17:52:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 20:39:03 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>IMAGO 08 Unterricht Planen</title>
+      <description>Podcast zum Dokument „IMAGO 08 Unterricht Planen“ (30 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/imago-08-unterricht-plane-260618223857.mp3" length="8956224" type="audio/mpeg"/>
+      <guid isPermaLink="false">50d96f09-11b6-4c64-aa39-64a3212d87dd</guid>
+      <pubDate>Thu, 18 Jun 2026 20:39:03 +0000</pubDate>
+      <itunes:duration>24:53</itunes:duration>
+    </item>
     <item>
       <title>IMAGO 18 Weltbilder</title>
       <description>Podcast zum Dokument „IMAGO 18 Weltbilder“ (30 Min., automatisch erstellt).</description>
