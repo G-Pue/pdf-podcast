@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Tue, 23 Jun 2026 02:28:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 05:40:43 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Didaktik des Kunstunterrichts</title>
+      <description>Podcast zum Dokument „Didaktik des Kunstunterrichts“ (60 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/didaktik-des-kunstunterri-260623074029.mp3" length="24874416" type="audio/mpeg"/>
+      <guid isPermaLink="false">5379c94f-b32a-47b5-abbd-37b17bf8d55e</guid>
+      <pubDate>Tue, 23 Jun 2026 05:40:43 +0000</pubDate>
+      <itunes:duration>1:09:06</itunes:duration>
+    </item>
     <item>
       <title>Didaktik des Kunstunterrichts</title>
       <description>Podcast zum Dokument „Didaktik des Kunstunterrichts“ (60 Min., automatisch erstellt).</description>
