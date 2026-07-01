@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Wed, 01 Jul 2026 02:52:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 03:01:03 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Guetterman Descriptions of Sampling Practices Within Five Approaches to Qualitative Researc...</title>
+      <description>Podcast zum Dokument „Guetterman Descriptions of Sampling Practices Within Five Approaches to Qualitative Researc...“ (27 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/guetterman-descriptions-o-260701050056.mp3" length="10325232" type="audio/mpeg"/>
+      <guid isPermaLink="false">7aab6414-0c7c-4a4c-b9dd-ab8f5a64a047</guid>
+      <pubDate>Wed, 01 Jul 2026 03:01:03 +0000</pubDate>
+      <itunes:duration>28:41</itunes:duration>
+    </item>
     <item>
       <title>Kristjansson Nelson   Methods in Practice Grounded Theory in M</title>
       <description>Podcast zum Dokument „Kristjansson Nelson   Methods in Practice Grounded Theory in M“ (21 Min., automatisch erstellt).</description>
