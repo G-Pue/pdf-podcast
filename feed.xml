@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Wed, 01 Jul 2026 02:47:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 02:52:55 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Kristjansson Nelson   Methods in Practice Grounded Theory in M</title>
+      <description>Podcast zum Dokument „Kristjansson Nelson   Methods in Practice Grounded Theory in M“ (21 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/kristjansson-nelson-metho-260701045249.mp3" length="8973936" type="audio/mpeg"/>
+      <guid isPermaLink="false">2c05ed57-41d7-4b4c-8553-fdfb6ab1d8dc</guid>
+      <pubDate>Wed, 01 Jul 2026 02:52:55 +0000</pubDate>
+      <itunes:duration>24:56</itunes:duration>
+    </item>
     <item>
       <title>Constructing Grounded Theory Lang</title>
       <description>Podcast zum Dokument „Constructing Grounded Theory Lang“ (60 Min., automatisch erstellt).</description>
