@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Wed, 24 Jun 2026 21:31:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 02:47:12 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Constructing Grounded Theory Lang</title>
+      <description>Podcast zum Dokument „Constructing Grounded Theory Lang“ (60 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/constructing-grounded-the-260701044701.mp3" length="21714480" type="audio/mpeg"/>
+      <guid isPermaLink="false">03676f35-fecc-4a61-abf7-9cbe4483bc1e</guid>
+      <pubDate>Wed, 01 Jul 2026 02:47:12 +0000</pubDate>
+      <itunes:duration>1:00:19</itunes:duration>
+    </item>
     <item>
       <title>The effect of embodied learning on students’ learning performance: A meta-analysis</title>
       <description>Podcast zum Dokument „The effect of embodied learning on students’ learning performance: A meta-analysis“ (30 Min., automatisch erstellt).</description>
