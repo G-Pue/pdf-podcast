@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Wed, 01 Jul 2026 03:01:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 03:47:26 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Pentzold Bischof Heise - Praxis Grounded Theory</title>
+      <description>Podcast zum Dokument „Pentzold Bischof Heise - Praxis Grounded Theory“ (60 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/pentzold-bischof-heise-pr-260701054715.mp3" length="21028608" type="audio/mpeg"/>
+      <guid isPermaLink="false">486a80a1-6f0d-4377-ac63-7d03ae78ea76</guid>
+      <pubDate>Wed, 01 Jul 2026 03:47:26 +0000</pubDate>
+      <itunes:duration>58:25</itunes:duration>
+    </item>
     <item>
       <title>Guetterman Descriptions of Sampling Practices Within Five Approaches to Qualitative Researc...</title>
       <description>Podcast zum Dokument „Guetterman Descriptions of Sampling Practices Within Five Approaches to Qualitative Researc...“ (27 Min., automatisch erstellt).</description>
