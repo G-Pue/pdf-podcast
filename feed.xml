@@ -5,7 +5,7 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Wed, 01 Jul 2026 03:47:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 14:11:12 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
@@ -71,14 +71,6 @@
       <guid isPermaLink="false">cd1538eb-4f0f-4d95-9cb5-fc53344951c5</guid>
       <pubDate>Thu, 18 Jun 2026 16:39:03 +0000</pubDate>
       <itunes:duration>25:06</itunes:duration>
-    </item>
-    <item>
-      <title>Kröz Lara KuWiHa 4747241</title>
-      <description>Podcast zum Dokument „Kröz Lara KuWiHa 4747241“ (14 Min., automatisch erstellt).</description>
-      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/kroz-lara-kuwiha-4747241-260616154950.mp3" length="3819312" type="audio/mpeg"/>
-      <guid isPermaLink="false">6a227435-867c-4421-bbda-dfdaa929e264</guid>
-      <pubDate>Tue, 16 Jun 2026 13:49:54 +0000</pubDate>
-      <itunes:duration>10:37</itunes:duration>
     </item>
     <item>
       <title>BDK-Mitteilungen 4-2025</title>
