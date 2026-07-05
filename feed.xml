@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Sun, 05 Jul 2026 14:11:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 14:23:26 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Research Avenues Supporting Embodied Cognition in Learning and Instruction</title>
+      <description>Podcast zum Dokument „Research Avenues Supporting Embodied Cognition in Learning and Instruction“ (39 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/research-avenues-supporti-260705162315.mp3" length="18894528" type="audio/mpeg"/>
+      <guid isPermaLink="false">dea58b5e-3d0f-487d-85f6-e5c7ff658c51</guid>
+      <pubDate>Sun, 05 Jul 2026 14:23:26 +0000</pubDate>
+      <itunes:duration>52:29</itunes:duration>
+    </item>
     <item>
       <title>Pentzold Bischof Heise - Praxis Grounded Theory</title>
       <description>Podcast zum Dokument „Pentzold Bischof Heise - Praxis Grounded Theory“ (60 Min., automatisch erstellt).</description>
