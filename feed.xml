@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Sun, 05 Jul 2026 14:23:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 06:56:53 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Didaktik des Kunstunterrichts</title>
+      <description>Podcast zum Dokument „Didaktik des Kunstunterrichts“ (60 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/didaktik-des-kunstunterri-260707085615.mp3" length="24514416" type="audio/mpeg"/>
+      <guid isPermaLink="false">e45e3f10-2001-4177-9db8-c93225978533</guid>
+      <pubDate>Tue, 07 Jul 2026 06:56:53 +0000</pubDate>
+      <itunes:duration>1:08:06</itunes:duration>
+    </item>
     <item>
       <title>Research Avenues Supporting Embodied Cognition in Learning and Instruction</title>
       <description>Podcast zum Dokument „Research Avenues Supporting Embodied Cognition in Learning and Instruction“ (39 Min., automatisch erstellt).</description>
