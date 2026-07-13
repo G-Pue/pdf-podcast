@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Mon, 13 Jul 2026 20:14:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 20:22:45 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Gesture as Representational Action: A paper about function</title>
+      <description>Podcast zum Dokument „Gesture as Representational Action: A paper about function“ (31 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/gesture-as-representation-260713222237.mp3" length="11884608" type="audio/mpeg"/>
+      <guid isPermaLink="false">adf779af-b836-4d6d-82a0-74583d621bf5</guid>
+      <pubDate>Mon, 13 Jul 2026 20:22:45 +0000</pubDate>
+      <itunes:duration>33:01</itunes:duration>
+    </item>
     <item>
       <title>Patrick   modelling artistic practices in schools</title>
       <description>Podcast zum Dokument „Patrick   modelling artistic practices in schools“ (60 Min., automatisch erstellt).</description>
