@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Mon, 13 Jul 2026 20:22:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 20:39:16 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Microsoft Word - COPE_FINAL DRAFT_Corrections_FinalC.docx</title>
+      <description>Podcast zum Dokument „Microsoft Word - COPE_FINAL DRAFT_Corrections_FinalC.docx“ (60 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/microsoft-word-cope_final-260713223904.mp3" length="20616480" type="audio/mpeg"/>
+      <guid isPermaLink="false">18c1e6f6-b5de-4112-97fd-8099729d0d9e</guid>
+      <pubDate>Mon, 13 Jul 2026 20:39:16 +0000</pubDate>
+      <itunes:duration>57:16</itunes:duration>
+    </item>
     <item>
       <title>Gesture as Representational Action: A paper about function</title>
       <description>Podcast zum Dokument „Gesture as Representational Action: A paper about function“ (31 Min., automatisch erstellt).</description>
