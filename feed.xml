@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Mon, 13 Jul 2026 19:48:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 20:14:02 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Patrick   modelling artistic practices in schools</title>
+      <description>Podcast zum Dokument „Patrick   modelling artistic practices in schools“ (60 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/patrick-modelling-artisti-260713221351.mp3" length="20282688" type="audio/mpeg"/>
+      <guid isPermaLink="false">949f2b49-461f-4860-8bfe-bc56b484035a</guid>
+      <pubDate>Mon, 13 Jul 2026 20:14:02 +0000</pubDate>
+      <itunes:duration>56:20</itunes:duration>
+    </item>
     <item>
       <title>Zeichnen – Reden – Zeigen</title>
       <description>Podcast zum Dokument „Zeichnen – Reden – Zeigen“ (13 Min., automatisch erstellt).</description>
