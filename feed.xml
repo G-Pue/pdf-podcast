@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Mon, 13 Jul 2026 20:39:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 11:52:38 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Gomolla Institutionelle Diskriminierun 9783531915777</title>
+      <description>Podcast zum Dokument „Gomolla Institutionelle Diskriminierun 9783531915777“ (60 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/gomolla-institutionelle-d-260717135223.mp3" length="23604912" type="audio/mpeg"/>
+      <guid isPermaLink="false">d65df27d-7bbe-467c-ae72-5d9381591ddf</guid>
+      <pubDate>Fri, 17 Jul 2026 11:52:38 +0000</pubDate>
+      <itunes:duration>1:05:34</itunes:duration>
+    </item>
     <item>
       <title>Microsoft Word - COPE_FINAL DRAFT_Corrections_FinalC.docx</title>
       <description>Podcast zum Dokument „Microsoft Word - COPE_FINAL DRAFT_Corrections_FinalC.docx“ (60 Min., automatisch erstellt).</description>
