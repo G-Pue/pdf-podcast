@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Fri, 17 Jul 2026 12:43:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 19:19:31 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Researching education through embodied knowledge: MA students’ practice-based dissertations</title>
+      <description>Podcast zum Dokument „Researching education through embodied knowledge: MA students’ practice-based dissertations“ (16 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/researching-education-thr-260726211926.mp3" length="6941952" type="audio/mpeg"/>
+      <guid isPermaLink="false">880fdf09-b1e2-475a-ad0b-0a4600a90321</guid>
+      <pubDate>Sun, 26 Jul 2026 19:19:31 +0000</pubDate>
+      <itunes:duration>19:17</itunes:duration>
+    </item>
     <item>
       <title>Schule ohne Diskriminierung</title>
       <description>Podcast zum Dokument „Schule ohne Diskriminierung“ (60 Min., automatisch erstellt).</description>
