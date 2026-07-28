@@ -5,16 +5,16 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Tue, 28 Jul 2026 04:26:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 04:28:16 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Lobinger   Handbuch visuelle Kommunikationsforschung</title>
       <description>Podcast zum Dokument „Lobinger   Handbuch visuelle Kommunikationsforschung“ (60 Min., automatisch erstellt).</description>
-      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/lobinger-handbuch-visuell-260728062636.mp3" length="22687056" type="audio/mpeg"/>
-      <guid isPermaLink="false">ea0156b8-ba13-42f3-9276-05ef49e53128</guid>
-      <pubDate>Tue, 28 Jul 2026 04:26:49 +0000</pubDate>
-      <itunes:duration>1:03:01</itunes:duration>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/lobinger-handbuch-visuell-260728062804.mp3" length="20788560" type="audio/mpeg"/>
+      <guid isPermaLink="false">2cec30d6-9388-4b41-864b-47d195941e18</guid>
+      <pubDate>Tue, 28 Jul 2026 04:28:16 +0000</pubDate>
+      <itunes:duration>57:45</itunes:duration>
     </item>
     <item>
       <title>Researching education through embodied knowledge: MA students’ practice-based dissertations</title>
