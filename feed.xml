@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Tue, 28 Jul 2026 04:28:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 12:23:03 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Kraus Wulf   Introduction Embodiment   A challenge for Learning and Education</title>
+      <description>Podcast zum Dokument „Kraus Wulf   Introduction Embodiment   A challenge for Learning and Education“ (17 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/kraus-wulf-introduction-e-260729142258.mp3" length="7706736" type="audio/mpeg"/>
+      <guid isPermaLink="false">4d6302ca-6454-4369-8e52-436965c83694</guid>
+      <pubDate>Wed, 29 Jul 2026 12:23:03 +0000</pubDate>
+      <itunes:duration>21:24</itunes:duration>
+    </item>
     <item>
       <title>Lobinger   Handbuch visuelle Kommunikationsforschung</title>
       <description>Podcast zum Dokument „Lobinger   Handbuch visuelle Kommunikationsforschung“ (60 Min., automatisch erstellt).</description>
