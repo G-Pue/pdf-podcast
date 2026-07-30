@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Thu, 30 Jul 2026 05:28:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 07:27:30 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Lee et al The effect of Drama based Pedagogies   Meta Analysis</title>
+      <description>Podcast zum Dokument „Lee et al The effect of Drama based Pedagogies   Meta Analysis“ (27 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/lee-et-al-the-effect-of-d-260730092722.mp3" length="9831888" type="audio/mpeg"/>
+      <guid isPermaLink="false">d1ac9552-a822-443f-9f8e-19003a950aeb</guid>
+      <pubDate>Thu, 30 Jul 2026 07:27:30 +0000</pubDate>
+      <itunes:duration>27:19</itunes:duration>
+    </item>
     <item>
       <title>Educational practices in motion: a scoping review of embodied learning approaches in school</title>
       <description>Podcast zum Dokument „Educational practices in motion: a scoping review of embodied learning approaches in school“ (32 Min., automatisch erstellt).</description>
