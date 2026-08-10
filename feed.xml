@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Thu, 30 Jul 2026 07:27:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 17:35:07 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>When Gesture “Takes Over”: Speech-Embedded Nonverbal Depictions in Multimodal Interaction</title>
+      <description>Podcast zum Dokument „When Gesture “Takes Over”: Speech-Embedded Nonverbal Depictions in Multimodal Interaction“ (20 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/when-gesture-takes-over-s-260810193501.mp3" length="8088336" type="audio/mpeg"/>
+      <guid isPermaLink="false">9cdcb8a4-4d3f-43ea-8e63-28116f8d9d38</guid>
+      <pubDate>Mon, 10 Aug 2026 17:35:07 +0000</pubDate>
+      <itunes:duration>22:28</itunes:duration>
+    </item>
     <item>
       <title>Lee et al The effect of Drama based Pedagogies   Meta Analysis</title>
       <description>Podcast zum Dokument „Lee et al The effect of Drama based Pedagogies   Meta Analysis“ (27 Min., automatisch erstellt).</description>
