@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Sun, 16 Aug 2026 06:22:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 06:22:51 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Multimodale Gestenforschung Kunst – Norris The Impact of Literacy-based Schooling on Learning</title>
+      <description>Podcast zum Dokument „Norris The Impact of Literacy-based Schooling on Learning“ (40 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/norris-the-impact-of-lite-260816082243.mp3" length="14729760" type="audio/mpeg"/>
+      <guid isPermaLink="false">b5e71493-8c2a-4452-b2e2-ed9176d9a271</guid>
+      <pubDate>Sun, 16 Aug 2026 06:22:51 +0000</pubDate>
+      <itunes:duration>40:55</itunes:duration>
+    </item>
     <item>
       <title>When Gesture “Takes Over”: Speech-Embedded Nonverbal Depictions in Multimodal Interaction</title>
       <description>Podcast zum Dokument „When Gesture “Takes Over”: Speech-Embedded Nonverbal Depictions in Multimodal Interaction“ (20 Min., automatisch erstellt).</description>
@@ -25,7 +33,7 @@
       <itunes:duration>27:19</itunes:duration>
     </item>
     <item>
-      <title>Embodiment – Educational practices in motion: a scoping review of embodied learning approaches in school</title>
+      <title>Educational practices in motion: a scoping review of embodied learning approaches in school</title>
       <description>Podcast zum Dokument „Educational practices in motion: a scoping review of embodied learning approaches in school“ (32 Min., automatisch erstellt).</description>
       <enclosure url="https://g-pue.github.io/pdf-podcast/audio/educational-practices-in-260730072837.mp3" length="15189840" type="audio/mpeg"/>
       <guid isPermaLink="false">97b08de8-8774-4d83-818f-0b1f7731aaae</guid>
@@ -33,7 +41,7 @@
       <itunes:duration>42:12</itunes:duration>
     </item>
     <item>
-      <title>Embodiment – Brinkmann et al   Leib Leiblichkeit Embodiment</title>
+      <title>Brinkmann et al   Leib Leiblichkeit Embodiment</title>
       <description>Podcast zum Dokument „Brinkmann et al   Leib Leiblichkeit Embodiment“ (60 Min., automatisch erstellt).</description>
       <enclosure url="https://g-pue.github.io/pdf-podcast/audio/brinkmann-et-al-leib-leib-260729145930.mp3" length="20360592" type="audio/mpeg"/>
       <guid isPermaLink="false">6e78b02c-8a4d-4672-8843-5c38e67de597</guid>
@@ -41,7 +49,7 @@
       <itunes:duration>56:33</itunes:duration>
     </item>
     <item>
-      <title>Embodiment – Kraus Wulf   Introduction Embodiment   A challenge for Learning and Education</title>
+      <title>Kraus Wulf   Introduction Embodiment   A challenge for Learning and Education</title>
       <description>Podcast zum Dokument „Kraus Wulf   Introduction Embodiment   A challenge for Learning and Education“ (17 Min., automatisch erstellt).</description>
       <enclosure url="https://g-pue.github.io/pdf-podcast/audio/kraus-wulf-introduction-e-260729142258.mp3" length="7706736" type="audio/mpeg"/>
       <guid isPermaLink="false">4d6302ca-6454-4369-8e52-436965c83694</guid>
@@ -57,7 +65,7 @@
       <itunes:duration>57:45</itunes:duration>
     </item>
     <item>
-      <title>Embodiment – Addison - Researching education through embodied knowledge: MA students’ practice-based dissertations</title>
+      <title>Researching education through embodied knowledge: MA students’ practice-based dissertations</title>
       <description>Podcast zum Dokument „Researching education through embodied knowledge: MA students’ practice-based dissertations“ (16 Min., automatisch erstellt).</description>
       <enclosure url="https://g-pue.github.io/pdf-podcast/audio/researching-education-thr-260726211926.mp3" length="6941952" type="audio/mpeg"/>
       <guid isPermaLink="false">880fdf09-b1e2-475a-ad0b-0a4600a90321</guid>
@@ -89,7 +97,7 @@
       <itunes:duration>57:16</itunes:duration>
     </item>
     <item>
-      <title>Gestenforschung – Novack Golding-Meadow - Gesture as Representational Action: A paper about function</title>
+      <title>Gesture as Representational Action: A paper about function</title>
       <description>Podcast zum Dokument „Gesture as Representational Action: A paper about function“ (31 Min., automatisch erstellt).</description>
       <enclosure url="https://g-pue.github.io/pdf-podcast/audio/gesture-as-representation-260713222237.mp3" length="11884608" type="audio/mpeg"/>
       <guid isPermaLink="false">adf779af-b836-4d6d-82a0-74583d621bf5</guid>
@@ -153,7 +161,7 @@
       <itunes:duration>24:56</itunes:duration>
     </item>
     <item>
-      <title>Grounded Theory – Constructing Grounded Theory Lang</title>
+      <title>Constructing Grounded Theory Lang</title>
       <description>Podcast zum Dokument „Constructing Grounded Theory Lang“ (60 Min., automatisch erstellt).</description>
       <enclosure url="https://g-pue.github.io/pdf-podcast/audio/constructing-grounded-the-260701044701.mp3" length="21714480" type="audio/mpeg"/>
       <guid isPermaLink="false">03676f35-fecc-4a61-abf7-9cbe4483bc1e</guid>
