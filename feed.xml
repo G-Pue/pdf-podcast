@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Sun, 16 Aug 2026 07:06:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 07:41:03 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>KU Spezial – Martinez - A Qualitative Study on Translanguaging through the Visual Arts: A Social-Emotional Process</title>
+      <description>Podcast zum Dokument „Martinez - A Qualitative Study on Translanguaging through the Visual Arts: A Social-Emotional Process“ (60 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/martinez-a-qualitative-st-260816094052.mp3" length="20303568" type="audio/mpeg"/>
+      <guid isPermaLink="false">829f7740-45c3-46c5-a1f3-d69a596580a4</guid>
+      <pubDate>Sun, 16 Aug 2026 07:41:03 +0000</pubDate>
+      <itunes:duration>56:24</itunes:duration>
+    </item>
     <item>
       <title>KU spezial – Ball - A Journey and a Roadmap: Lessons Learned from Co-Creating an After-school Art Program with/for Newcomer Youth from Refugee Communities.</title>
       <description>Podcast zum Dokument „Ball - A Journey and a Roadmap: Lessons Learned from Co-Creating an After-school Art Program with/for Newcomer Youth from Refugee Communities.“ (60 Min., automatisch erstellt).</description>
