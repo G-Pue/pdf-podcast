@@ -5,7 +5,7 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Sun, 16 Aug 2026 06:24:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 06:24:15 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
@@ -185,7 +185,7 @@
       <itunes:duration>24:53</itunes:duration>
     </item>
     <item>
-      <title>IMAGO 18 Weltbilder</title>
+      <title>IMAGO – IMAGO 18 Weltbilder</title>
       <description>Podcast zum Dokument „IMAGO 18 Weltbilder“ (30 Min., automatisch erstellt).</description>
       <enclosure url="https://g-pue.github.io/pdf-podcast/audio/imago-18-weltbilder-260618195158.mp3" length="9225360" type="audio/mpeg"/>
       <guid isPermaLink="false">86910d7a-b29a-4781-9076-c0c5e033b6ca</guid>
