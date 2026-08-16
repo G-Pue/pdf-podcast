@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Sun, 16 Aug 2026 06:34:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 07:06:48 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>KU spezial – Ball - A Journey and a Roadmap: Lessons Learned from Co-Creating an After-school Art Program with/for Newcomer Youth from Refugee Communities.</title>
+      <description>Podcast zum Dokument „Ball - A Journey and a Roadmap: Lessons Learned from Co-Creating an After-school Art Program with/for Newcomer Youth from Refugee Communities.“ (60 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/ball-a-journey-and-a-road-260816090632.mp3" length="24576336" type="audio/mpeg"/>
+      <guid isPermaLink="false">fb2286c5-e8ee-4b65-a2b9-cae9fae1aa3c</guid>
+      <pubDate>Sun, 16 Aug 2026 07:06:48 +0000</pubDate>
+      <itunes:duration>1:08:16</itunes:duration>
+    </item>
     <item>
       <title>Multimodale Gestenforschung Kunst – Norris The Impact of Literacy-based Schooling on Learning</title>
       <description>Podcast zum Dokument „Norris The Impact of Literacy-based Schooling on Learning“ (40 Min., automatisch erstellt).</description>
