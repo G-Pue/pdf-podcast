@@ -5,7 +5,7 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Sun, 16 Aug 2026 06:23:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 06:23:53 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
@@ -233,7 +233,7 @@
       <itunes:duration>24:59</itunes:duration>
     </item>
     <item>
-      <title>BDK-Mitteilungen 2/2026</title>
+      <title>BDK – BDK-Mitteilungen 2/2026</title>
       <description>Podcast zum Dokument „BDK-Mitteilungen 2/2026“ (25 Min., automatisch erstellt).</description>
       <enclosure url="https://g-pue.github.io/pdf-podcast/audio/bdk-mitteilungen-22026-260612103256.mp3" length="9233424" type="audio/mpeg"/>
       <guid isPermaLink="false">456135a3-ff9d-4bc2-a4fd-09a42fbf3068</guid>
