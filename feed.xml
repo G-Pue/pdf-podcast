@@ -5,7 +5,7 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Sun, 16 Aug 2026 06:21:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 06:22:01 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
@@ -153,7 +153,7 @@
       <itunes:duration>24:56</itunes:duration>
     </item>
     <item>
-      <title>Constructing Grounded Theory Lang</title>
+      <title>Grounded Theory – Constructing Grounded Theory Lang</title>
       <description>Podcast zum Dokument „Constructing Grounded Theory Lang“ (60 Min., automatisch erstellt).</description>
       <enclosure url="https://g-pue.github.io/pdf-podcast/audio/constructing-grounded-the-260701044701.mp3" length="21714480" type="audio/mpeg"/>
       <guid isPermaLink="false">03676f35-fecc-4a61-abf7-9cbe4483bc1e</guid>
