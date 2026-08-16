@@ -5,7 +5,7 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Sun, 16 Aug 2026 06:20:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 06:21:36 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
@@ -89,7 +89,7 @@
       <itunes:duration>57:16</itunes:duration>
     </item>
     <item>
-      <title>Gesture as Representational Action: A paper about function</title>
+      <title>Gestenforschung – Novack Golding-Meadow - Gesture as Representational Action: A paper about function</title>
       <description>Podcast zum Dokument „Gesture as Representational Action: A paper about function“ (31 Min., automatisch erstellt).</description>
       <enclosure url="https://g-pue.github.io/pdf-podcast/audio/gesture-as-representation-260713222237.mp3" length="11884608" type="audio/mpeg"/>
       <guid isPermaLink="false">adf779af-b836-4d6d-82a0-74583d621bf5</guid>
