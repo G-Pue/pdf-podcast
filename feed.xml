@@ -5,7 +5,7 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Sun, 16 Aug 2026 06:23:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 06:24:04 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
@@ -241,7 +241,7 @@
       <itunes:duration>25:39</itunes:duration>
     </item>
     <item>
-      <title>20260130_BDKM_01-2026_SCREEN</title>
+      <title>BDK – 20260130_BDKM_01-2026_SCREEN</title>
       <description>Podcast zum Dokument „20260130_BDKM_01-2026_SCREEN“ (25 Min., automatisch erstellt).</description>
       <enclosure url="https://g-pue.github.io/pdf-podcast/audio/20260130_bdkm_01-2026_scr-260612101033.mp3" length="7466976" type="audio/mpeg"/>
       <guid isPermaLink="false">749499f0-96ea-4f8f-8b84-6bff0908caf7</guid>
