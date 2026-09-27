@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Sun, 27 Sep 2026 04:42:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 04:44:32 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Embodiment – Kraus Wulf   Introduction Embodiment   A challenge for Learning and Education</title>
+      <description>Podcast zum Dokument „Kraus Wulf   Introduction Embodiment   A challenge for Learning and Education“ (17 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/kraus-wulf-introduction-e-260927064426.mp3" length="7675632" type="audio/mpeg"/>
+      <guid isPermaLink="false">24f192d7-76b5-4370-9186-6d98f1e00391</guid>
+      <pubDate>Sun, 27 Sep 2026 04:44:32 +0000</pubDate>
+      <itunes:duration>21:19</itunes:duration>
+    </item>
     <item>
       <title>KU Spezial – Martinez - A Qualitative Study on Translanguaging through the Visual Arts: A Social-Emotional Process</title>
       <description>Podcast zum Dokument „Martinez - A Qualitative Study on Translanguaging through the Visual Arts: A Social-Emotional Process“ (60 Min., automatisch erstellt).</description>
@@ -57,7 +65,7 @@
       <itunes:duration>42:12</itunes:duration>
     </item>
     <item>
-      <title>Embodiment – Brinkmann et al   Leib Leiblichkeit Embodiment</title>
+      <title>Brinkmann et al   Leib Leiblichkeit Embodiment</title>
       <description>Podcast zum Dokument „Brinkmann et al   Leib Leiblichkeit Embodiment“ (60 Min., automatisch erstellt).</description>
       <enclosure url="https://g-pue.github.io/pdf-podcast/audio/brinkmann-et-al-leib-leib-260729145930.mp3" length="20360592" type="audio/mpeg"/>
       <guid isPermaLink="false">6e78b02c-8a4d-4672-8843-5c38e67de597</guid>
@@ -65,7 +73,7 @@
       <itunes:duration>56:33</itunes:duration>
     </item>
     <item>
-      <title>Embodiment – Kraus Wulf   Introduction Embodiment   A challenge for Learning and Education</title>
+      <title>Kraus Wulf   Introduction Embodiment   A challenge for Learning and Education</title>
       <description>Podcast zum Dokument „Kraus Wulf   Introduction Embodiment   A challenge for Learning and Education“ (17 Min., automatisch erstellt).</description>
       <enclosure url="https://g-pue.github.io/pdf-podcast/audio/kraus-wulf-introduction-e-260729142258.mp3" length="7706736" type="audio/mpeg"/>
       <guid isPermaLink="false">4d6302ca-6454-4369-8e52-436965c83694</guid>
@@ -153,7 +161,7 @@
       <itunes:duration>52:29</itunes:duration>
     </item>
     <item>
-      <title>GT – Pentzold Bischof Heise - Praxis Grounded Theory</title>
+      <title>Pentzold Bischof Heise - Praxis Grounded Theory</title>
       <description>Podcast zum Dokument „Pentzold Bischof Heise - Praxis Grounded Theory“ (60 Min., automatisch erstellt).</description>
       <enclosure url="https://g-pue.github.io/pdf-podcast/audio/pentzold-bischof-heise-pr-260701054715.mp3" length="21028608" type="audio/mpeg"/>
       <guid isPermaLink="false">486a80a1-6f0d-4377-ac63-7d03ae78ea76</guid>
@@ -169,7 +177,7 @@
       <itunes:duration>28:41</itunes:duration>
     </item>
     <item>
-      <title>GT – Kristjansson Nelson   Methods in Practice Grounded Theory in M</title>
+      <title>Kristjansson Nelson   Methods in Practice Grounded Theory in M</title>
       <description>Podcast zum Dokument „Kristjansson Nelson   Methods in Practice Grounded Theory in M“ (21 Min., automatisch erstellt).</description>
       <enclosure url="https://g-pue.github.io/pdf-podcast/audio/kristjansson-nelson-metho-260701045249.mp3" length="8973936" type="audio/mpeg"/>
       <guid isPermaLink="false">2c05ed57-41d7-4b4c-8553-fdfb6ab1d8dc</guid>
@@ -177,7 +185,7 @@
       <itunes:duration>24:56</itunes:duration>
     </item>
     <item>
-      <title>GT – Constructing Grounded Theory Lang</title>
+      <title>Constructing Grounded Theory Lang</title>
       <description>Podcast zum Dokument „Constructing Grounded Theory Lang“ (60 Min., automatisch erstellt).</description>
       <enclosure url="https://g-pue.github.io/pdf-podcast/audio/constructing-grounded-the-260701044701.mp3" length="21714480" type="audio/mpeg"/>
       <guid isPermaLink="false">03676f35-fecc-4a61-abf7-9cbe4483bc1e</guid>
@@ -233,7 +241,7 @@
       <itunes:duration>24:15</itunes:duration>
     </item>
     <item>
-      <title>GT – Constructing Grounded Theory</title>
+      <title>Constructing Grounded Theory</title>
       <description>Podcast zum Dokument „Constructing Grounded Theory“ (45 Min., automatisch erstellt).</description>
       <enclosure url="https://g-pue.github.io/pdf-podcast/audio/constructing-grounded-the-260612120102.mp3" length="9528336" type="audio/mpeg"/>
       <guid isPermaLink="false">9290dbb0-694d-49c7-8464-2feec8f978f2</guid>
