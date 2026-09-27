@@ -5,7 +5,7 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Sun, 27 Sep 2026 04:42:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 04:42:16 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
@@ -153,7 +153,7 @@
       <itunes:duration>52:29</itunes:duration>
     </item>
     <item>
-      <title>Pentzold Bischof Heise - Praxis Grounded Theory</title>
+      <title>GT – Pentzold Bischof Heise - Praxis Grounded Theory</title>
       <description>Podcast zum Dokument „Pentzold Bischof Heise - Praxis Grounded Theory“ (60 Min., automatisch erstellt).</description>
       <enclosure url="https://g-pue.github.io/pdf-podcast/audio/pentzold-bischof-heise-pr-260701054715.mp3" length="21028608" type="audio/mpeg"/>
       <guid isPermaLink="false">486a80a1-6f0d-4377-ac63-7d03ae78ea76</guid>
