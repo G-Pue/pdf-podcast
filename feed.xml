@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Sun, 27 Sep 2026 04:44:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 05:00:52 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Embodiment – Varela Thompson Rosch The Embodied Mind Cognitive Science and Human Experience 1991</title>
+      <description>Podcast zum Dokument „Varela Thompson Rosch The Embodied Mind Cognitive Science and Human Experience 1991“ (60 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/varela-thompson-rosch-the-260929070039.mp3" length="21227040" type="audio/mpeg"/>
+      <guid isPermaLink="false">e68b9cfb-6950-47c8-96b7-1ad9bcda8a0b</guid>
+      <pubDate>Tue, 29 Sep 2026 05:00:52 +0000</pubDate>
+      <itunes:duration>58:58</itunes:duration>
+    </item>
     <item>
       <title>Embodiment – Kraus Wulf   Introduction Embodiment   A challenge for Learning and Education</title>
       <description>Podcast zum Dokument „Kraus Wulf   Introduction Embodiment   A challenge for Learning and Education“ (17 Min., automatisch erstellt).</description>
