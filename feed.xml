@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Tue, 29 Sep 2026 05:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:08:13 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Embodiment – Kraus Wulf HG   The Palgrave Handbook of Embodiment and Learning 2022</title>
+      <description>Podcast zum Dokument „Kraus Wulf HG   The Palgrave Handbook of Embodiment and Learning 2022“ (60 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/kraus-wulf-hg-the-palgrav-260929100806.mp3" length="22603104" type="audio/mpeg"/>
+      <guid isPermaLink="false">1e4edfd3-bc36-4786-a21e-7a0d717e8df5</guid>
+      <pubDate>Tue, 29 Sep 2026 08:08:13 +0000</pubDate>
+      <itunes:duration>1:02:47</itunes:duration>
+    </item>
     <item>
       <title>Embodiment – Varela Thompson Rosch The Embodied Mind Cognitive Science and Human Experience 1991</title>
       <description>Podcast zum Dokument „Varela Thompson Rosch The Embodied Mind Cognitive Science and Human Experience 1991“ (60 Min., automatisch erstellt).</description>
