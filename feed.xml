@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Tue, 29 Sep 2026 08:08:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 04:49:00 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Embodiment – Awad   Embodiement im Lernprozess   Ein Paradigmenwechsel in der Pädagogik</title>
+      <description>Podcast zum Dokument „Awad   Embodiement im Lernprozess   Ein Paradigmenwechsel in der Pädagogik“ (60 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/awad-embodiement-im-lernp-260930064846.mp3" length="25096752" type="audio/mpeg"/>
+      <guid isPermaLink="false">32bd1f0a-cf2e-42be-9987-b3c301484ec7</guid>
+      <pubDate>Wed, 30 Sep 2026 04:49:00 +0000</pubDate>
+      <itunes:duration>1:09:43</itunes:duration>
+    </item>
     <item>
       <title>Embodiment – Kraus Wulf HG   The Palgrave Handbook of Embodiment and Learning 2022</title>
       <description>Podcast zum Dokument „Kraus Wulf HG   The Palgrave Handbook of Embodiment and Learning 2022“ (60 Min., automatisch erstellt).</description>
