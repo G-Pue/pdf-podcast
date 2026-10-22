@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Wed, 30 Sep 2026 04:49:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:17:08 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>BDK – BDK Mitteilungen 2026 03</title>
+      <description>Podcast zum Dokument „BDK Mitteilungen 2026 03“ (60 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/bdk-mitteilungen-2026-03-261022171652.mp3" length="22738032" type="audio/mpeg"/>
+      <guid isPermaLink="false">43f3cca6-809d-42f1-b0d9-9108f9562957</guid>
+      <pubDate>Thu, 22 Oct 2026 15:17:08 +0000</pubDate>
+      <itunes:duration>1:03:10</itunes:duration>
+    </item>
     <item>
       <title>Embodiment – Awad   Embodiement im Lernprozess   Ein Paradigmenwechsel in der Pädagogik</title>
       <description>Podcast zum Dokument „Awad   Embodiement im Lernprozess   Ein Paradigmenwechsel in der Pädagogik“ (60 Min., automatisch erstellt).</description>
