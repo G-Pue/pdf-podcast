@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Fri, 23 Oct 2026 07:59:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 08:38:31 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Embodiment – Philosophy In The Flesh</title>
+      <description>Podcast zum Dokument „Philosophy In The Flesh“ (60 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/philosophy-in-the-flesh-261023103817.mp3" length="25477920" type="audio/mpeg"/>
+      <guid isPermaLink="false">80a7d1ad-7cc6-448d-948b-51a711f77d41</guid>
+      <pubDate>Fri, 23 Oct 2026 08:38:31 +0000</pubDate>
+      <itunes:duration>1:10:46</itunes:duration>
+    </item>
     <item>
       <title>Embodiment – Sabisch Andrea   Zu Irritationen im visuellen Bildungs  und Erfahrungsprozess</title>
       <description>Podcast zum Dokument „Sabisch Andrea   Zu Irritationen im visuellen Bildungs  und Erfahrungsprozess“ (26 Min., automatisch erstellt).</description>
