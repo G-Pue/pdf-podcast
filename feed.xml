@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Thu, 22 Oct 2026 15:17:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:59:41 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Embodiment – Sabisch Andrea   Zu Irritationen im visuellen Bildungs  und Erfahrungsprozess</title>
+      <description>Podcast zum Dokument „Sabisch Andrea   Zu Irritationen im visuellen Bildungs  und Erfahrungsprozess“ (26 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/sabisch-andrea-zu-irritat-261023095935.mp3" length="10175328" type="audio/mpeg"/>
+      <guid isPermaLink="false">d26d50cb-dfee-45e8-91c7-f3f19d096dc0</guid>
+      <pubDate>Fri, 23 Oct 2026 07:59:41 +0000</pubDate>
+      <itunes:duration>28:16</itunes:duration>
+    </item>
     <item>
       <title>BDK – BDK Mitteilungen 2026 03</title>
       <description>Podcast zum Dokument „BDK Mitteilungen 2026 03“ (60 Min., automatisch erstellt).</description>
