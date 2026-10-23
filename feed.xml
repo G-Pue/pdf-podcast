@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Fri, 23 Oct 2026 08:38:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:22:53 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Embodiment – Schilhab Groth Embodied Learning and Teaching Using the 4E Cognition Approach; Exploring Perspectives in Teaching Practices</title>
+      <description>Podcast zum Dokument „Schilhab Groth Embodied Learning and Teaching Using the 4E Cognition Approach; Exploring Perspectives in Teaching Practices“ (60 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/schilhab-groth-embodied-l-261023112240.mp3" length="22836528" type="audio/mpeg"/>
+      <guid isPermaLink="false">5686b510-5304-4699-bfd2-4c30fd446270</guid>
+      <pubDate>Fri, 23 Oct 2026 09:22:53 +0000</pubDate>
+      <itunes:duration>1:03:26</itunes:duration>
+    </item>
     <item>
       <title>Embodiment – Philosophy In The Flesh</title>
       <description>Podcast zum Dokument „Philosophy In The Flesh“ (60 Min., automatisch erstellt).</description>
