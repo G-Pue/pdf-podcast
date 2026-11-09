@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Mon, 09 Nov 2026 06:14:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 06:32:33 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>DBR – DBR Collective 2003   Design based research   An emerging paradigm</title>
+      <description>Podcast zum Dokument „DBR Collective 2003   Design based research   An emerging paradigm“ (9 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/dbr-collective-2003-desig-261109073228.mp3" length="3565872" type="audio/mpeg"/>
+      <guid isPermaLink="false">66be13cd-cabb-4dd2-ad71-98cf38d74be0</guid>
+      <pubDate>Mon, 09 Nov 2026 06:32:33 +0000</pubDate>
+      <itunes:duration>9:54</itunes:duration>
+    </item>
     <item>
       <title>Ethisches Handeln in der psychologischen Forschung</title>
       <description>Podcast zum Dokument „Ethisches Handeln in der psychologischen Forschung“ (60 Min., automatisch erstellt).</description>
