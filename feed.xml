@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Mon, 09 Nov 2026 06:32:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:34:43 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings.</title>
+      <description>Podcast zum Dokument „Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings.“ (40 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/design-experiments-theore-261109083427.mp3" length="17893008" type="audio/mpeg"/>
+      <guid isPermaLink="false">b3a318b3-aa65-4860-9024-dc9c9fdb9dbf</guid>
+      <pubDate>Mon, 09 Nov 2026 07:34:43 +0000</pubDate>
+      <itunes:duration>49:42</itunes:duration>
+    </item>
     <item>
       <title>DBR – DBR Collective 2003   Design based research   An emerging paradigm</title>
       <description>Podcast zum Dokument „DBR Collective 2003   Design based research   An emerging paradigm“ (9 Min., automatisch erstellt).</description>
