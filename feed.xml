@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Mon, 26 Oct 2026 07:25:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 06:14:54 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Ethisches Handeln in der psychologischen Forschung</title>
+      <description>Podcast zum Dokument „Ethisches Handeln in der psychologischen Forschung“ (60 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/ethisches-handeln-in-der-261109071435.mp3" length="26736336" type="audio/mpeg"/>
+      <guid isPermaLink="false">131be45d-82a7-4b3d-ac9d-998237d76bfe</guid>
+      <pubDate>Mon, 09 Nov 2026 06:14:54 +0000</pubDate>
+      <itunes:duration>1:14:16</itunes:duration>
+    </item>
     <item>
       <title>Embodiment – ﻿Practicing Embodied Thinking in Research and Learning</title>
       <description>Podcast zum Dokument „﻿Practicing Embodied Thinking in Research and Learning“ (60 Min., automatisch erstellt).</description>
