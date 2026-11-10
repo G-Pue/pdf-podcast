@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Mon, 09 Nov 2026 07:34:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 13:28:01 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>PDF.js viewer</title>
+      <description>Podcast zum Dokument „PDF.js viewer“ (30 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/pdfjs-viewer-261110142745.mp3" length="12511008" type="audio/mpeg"/>
+      <guid isPermaLink="false">7231ef31-bc2f-400f-9b55-5abdd9a84681</guid>
+      <pubDate>Tue, 10 Nov 2026 13:28:01 +0000</pubDate>
+      <itunes:duration>34:45</itunes:duration>
+    </item>
     <item>
       <title>Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings.</title>
       <description>Podcast zum Dokument „Design Experiments: Theoretical and Methodological Challenges in Creating Complex Interventions in Classroom Settings.“ (40 Min., automatisch erstellt).</description>
