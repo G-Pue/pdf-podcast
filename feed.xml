@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Sun, 15 Nov 2026 14:25:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 15:10:12 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Embodiment – Lübke Christin   Körper Haut Hülle</title>
+      <description>Podcast zum Dokument „Lübke Christin   Körper Haut Hülle“ (60 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/lubke-christin-korper-hau-261115160950.mp3" length="24695712" type="audio/mpeg"/>
+      <guid isPermaLink="false">4382c724-407a-4e60-b1d2-ee28cee076bd</guid>
+      <pubDate>Sun, 15 Nov 2026 15:10:12 +0000</pubDate>
+      <itunes:duration>1:08:36</itunes:duration>
+    </item>
     <item>
       <title>Embodiment – Handbuch Kunstphilosophie - Verkörperung</title>
       <description>Podcast zum Dokument „Handbuch Kunstphilosophie“ (15 Min., automatisch erstellt).</description>
