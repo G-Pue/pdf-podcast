@@ -5,7 +5,7 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Sun, 15 Nov 2026 13:56:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 14:25:32 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <item>
@@ -17,7 +17,7 @@
       <itunes:duration>17:09</itunes:duration>
     </item>
     <item>
-      <title>PDF.js viewer</title>
+      <title>Embodiment – Martin Vetter - Psychomotricity for qualitative research</title>
       <description>Podcast zum Dokument „PDF.js viewer“ (30 Min., automatisch erstellt).</description>
       <enclosure url="https://g-pue.github.io/pdf-podcast/audio/pdfjs-viewer-261110142745.mp3" length="12511008" type="audio/mpeg"/>
       <guid isPermaLink="false">7231ef31-bc2f-400f-9b55-5abdd9a84681</guid>
