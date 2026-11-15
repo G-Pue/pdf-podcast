@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Tue, 10 Nov 2026 13:28:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:56:02 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Handbuch Kunstphilosophie</title>
+      <description>Podcast zum Dokument „Handbuch Kunstphilosophie“ (15 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/handbuch-kunstphilosophie-261115145556.mp3" length="6171120" type="audio/mpeg"/>
+      <guid isPermaLink="false">c58a8b51-17b0-484f-b2f7-cdf9e5bb6227</guid>
+      <pubDate>Sun, 15 Nov 2026 13:56:02 +0000</pubDate>
+      <itunes:duration>17:09</itunes:duration>
+    </item>
     <item>
       <title>PDF.js viewer</title>
       <description>Podcast zum Dokument „PDF.js viewer“ (30 Min., automatisch erstellt).</description>
