@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Sun, 15 Nov 2026 15:10:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 18:55:09 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Bohnsack - qualitative Bildanalyse Handbuch Soziale Praktiken und Digitale Alltagswelten</title>
+      <description>Podcast zum Dokument „Bohnsack - qualitative Bildanalyse Handbuch Soziale Praktiken und Digitale Alltagswelten“ (60 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/bohnsack-qualitative-bild-261122195452.mp3" length="24073056" type="audio/mpeg"/>
+      <guid isPermaLink="false">1d962cb3-72db-4e24-ae7f-cecc904fe2d8</guid>
+      <pubDate>Sun, 22 Nov 2026 18:55:09 +0000</pubDate>
+      <itunes:duration>1:06:52</itunes:duration>
+    </item>
     <item>
       <title>Embodiment – Lübke Christin   Körper Haut Hülle</title>
       <description>Podcast zum Dokument „Lübke Christin   Körper Haut Hülle“ (60 Min., automatisch erstellt).</description>
