@@ -5,9 +5,17 @@
     <link>https://g-pue.github.io/pdf-podcast/</link>
     <description>Automatisch aus PDF-Dokumenten erstellte Podcasts</description>
     <language>de</language>
-    <lastBuildDate>Sun, 22 Nov 2026 18:55:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:40:11 +0000</lastBuildDate>
     <itunes:author>PDF-Podcast</itunes:author>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Anicker Armbruster   Praxis soziologischer Theoriebildung</title>
+      <description>Podcast zum Dokument „Anicker Armbruster   Praxis soziologischer Theoriebildung“ (60 Min., automatisch erstellt).</description>
+      <enclosure url="https://g-pue.github.io/pdf-podcast/audio/anicker-armbruster-praxis-261123083950.mp3" length="23049072" type="audio/mpeg"/>
+      <guid isPermaLink="false">4cd2d5f3-6761-49e5-8444-950328257859</guid>
+      <pubDate>Mon, 23 Nov 2026 07:40:11 +0000</pubDate>
+      <itunes:duration>1:04:02</itunes:duration>
+    </item>
     <item>
       <title>Bohnsack - qualitative Bildanalyse Handbuch Soziale Praktiken und Digitale Alltagswelten</title>
       <description>Podcast zum Dokument „Bohnsack - qualitative Bildanalyse Handbuch Soziale Praktiken und Digitale Alltagswelten“ (60 Min., automatisch erstellt).</description>
